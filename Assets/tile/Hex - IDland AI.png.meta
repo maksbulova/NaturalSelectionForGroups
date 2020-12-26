@@ -1,0 +1,271 @@
+fileFormatVersion: 2
+guid: e0adc85a458a966448cd2ef2948ea9a9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4261006093224435964
+    second: Hex - IDland AI_0
+  - first:
+      213: -4384993323354035953
+    second: Hex - IDland AI_1
+  - first:
+      213: -4574978847442393515
+    second: Hex - IDland AI_2
+  - first:
+      213: 2447605050902418150
+    second: Hex - IDland AI_3
+  - first:
+      213: -5322781689659414141
+    second: Hex - IDland AI_4
+  - first:
+      213: 7975748134815359669
+    second: Hex - IDland AI_5
+  - first:
+      213: -1786877845980746857
+    second: Hex - IDland AI_6
+  - first:
+      213: -8393462812249897664
+    second: Hex - IDland AI_7
+  - first:
+      213: -7091140360500294020
+    second: Hex - IDland AI_8
+  - first:
+      213: -3823361350620330419
+    second: Hex - IDland AI_9
+  - first:
+      213: -5487775823719589754
+    second: Hex - IDland AI_10
+  - first:
+      213: -7682975522844743457
+    second: Hex - IDland AI_11
+  - first:
+      213: 1360032965020291349
+    second: Hex - IDland AI_12
+  - first:
+      213: -8095658185660957756
+    second: Hex - IDland AI_13
+  - first:
+      213: 6606133896459661443
+    second: Hex - IDland AI_14
+  - first:
+      213: 4566631585752609542
+    second: Hex - IDland AI_15
+  - first:
+      213: 9170618399263376610
+    second: Hex - IDland AI_16
+  - first:
+      213: -5628822774814544316
+    second: Hex - IDland AI_17
+  - first:
+      213: 4729146103919561704
+    second: Hex - IDland AI_18
+  - first:
+      213: -443132607404728709
+    second: Hex - IDland AI_19
+  - first:
+      213: 6050517196081929572
+    second: Hex - IDland AI_20
+  - first:
+      213: 5952206413649126654
+    second: Hex - IDland AI_21
+  - first:
+      213: -4411498920662879612
+    second: Hex - IDland AI_22
+  - first:
+      213: 5057043084667876761
+    second: Hex - IDland AI_23
+  - first:
+      213: -6681541300066797331
+    second: Hex - IDland AI_24
+  - first:
+      213: 1227712218636584838
+    second: Hex - IDland AI_25
+  - first:
+      213: -7430568329243348638
+    second: Hex - IDland AI_26
+  - first:
+      213: 6314538184761347604
+    second: Hex - IDland AI_27
+  - first:
+      213: -2770325263517024042
+    second: Hex - IDland AI_28
+  - first:
+      213: -8198424079561479244
+    second: Hex - IDland AI_29
+  - first:
+      213: 4207262857597487241
+    second: Hex - IDland AI_30
+  - first:
+      213: -5863023278856385925
+    second: Hex - IDland AI_31
+  - first:
+      213: 6883387436435174888
+    second: Hex - IDland AI_32
+  - first:
+      213: -8154990284837861131
+    second: Hex - IDland AI_33
+  - first:
+      213: -4788490260076107296
+    second: Hex - IDland AI_34
+  - first:
+      213: -4731997586870003377
+    second: Hex - IDland AI_35
+  - first:
+      213: 2392635473863731323
+    second: Hex - IDland AI_36
+  - first:
+      213: 7553599117879157238
+    second: Hex - IDland AI_37
+  - first:
+      213: 4970408399127967193
+    second: Hex - IDland AI_38
+  - first:
+      213: -5645999524182222781
+    second: Hex - IDland AI_39
+  - first:
+      213: -2994378185437782432
+    second: Hex - IDland AI_40
+  - first:
+      213: -296699887627196909
+    second: Hex - IDland AI_41
+  - first:
+      213: 8704631718997140587
+    second: Hex - IDland AI_42
+  - first:
+      213: 3731272880587603144
+    second: Hex - IDland AI_43
+  - first:
+      213: 1172249107995345074
+    second: Hex - IDland AI_44
+  - first:
+      213: 8038819634894497182
+    second: Hex - IDland AI_45
+  - first:
+      213: 7661314606013272868
+    second: Hex - IDland AI_46
+  - first:
+      213: -301851112666572452
+    second: Hex - IDland AI_47
+  - first:
+      213: -3975955073414465361
+    second: Hex - IDland AI_48
+  - first:
+      213: 3436362904944605899
+    second: Hex - IDland AI_49
+  - first:
+      213: -5696243121446776716
+    second: Hex - IDland AI_50
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
